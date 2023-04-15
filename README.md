@@ -1,7 +1,9 @@
 # RinBlock
 A local, offline Chrome extension that help to block ads on certain website.
 
-Exmaple #1, Adblock only
+Exmaple:https://www.learncpp.com/
+
+Adblock only
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/107768156/232205900-cac6f56a-f0a0-4a8a-a9fa-a96123a435e2.png">
 
 RinBlock Enabled: Adblock + RinBlock
